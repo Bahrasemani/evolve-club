@@ -1,0 +1,1 @@
+Uploaded to public folder on GitHub. Contains site assets like images.
